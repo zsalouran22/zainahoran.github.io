@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>163131 - zainah sayel nayef alouran</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav>
+<a href="index.html">home</a>
+<a href="contact.html">contact me</a>
+</nav>
+
+<h1>zainah sayel nayef alouran</h1>
+<h2>computer information systems (cis) student – fourth year</h2>
+
+<img src="images/photo.jpg" alt="my photo" width="200">
+
+<h3>soft skills</h3>
+<ul>
+<li>teamwork</li>
+<li>analytical thinking</li>
+<li>problem solving</li>
+<li>communication</li>
+<li>adaptability</li>
+</ul>
+
+<h3>favorite programming languages</h3>
+
+<table border="1">
+<tr>
+<th>technology</th>
+<th>website</th>
+</tr>
+
+<tr>
+<td>flutter / dart</td>
+<td><a href="https://flutter.dev" target="_blank">flutter.dev</a></td>
+</tr>
+
+<tr>
+<td>python</td>
+<td><a href="https://www.python.org" target="_blank">python.org</a></td>
+</tr>
+
+<tr>
+<td>c++</td>
+<td><a href="https://isocpp.org" target="_blank">isocpp.org</a></td>
+</tr>
+
+<tr>
+<td>html</td>
+<td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">learn html</a></td>
+</tr>
+
+</table>
+
+<h3>email me</h3>
+
+<a href="mailto:zsalouran22@cit.just.edu.jo">send me an email</a>
+
+<h3>where do i see myself in 4 years?</h3>
+
+<p>
+in four years i hope to be working in the cis or data science field. i want to learn more about systems and business. i am aslo interested in areas like penetration testing and network security. i also plan to get some cybersecurity certifications to improve my skills. my goal is to keep learning and become better in this field.
+</p>
+
+</body>
+</html>
